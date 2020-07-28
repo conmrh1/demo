@@ -1,1 +1,4 @@
 this is my Git license
+
+this is rather interesting.  
+I suppose
